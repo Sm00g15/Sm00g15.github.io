@@ -8,12 +8,8 @@ body {
   color: #5a5a5a;
 }
 
-h1 {
-	color: grey;
-}
-
-p {
-	color: grey;
+.jumbotron {
+	opacity: .4;
 }
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
