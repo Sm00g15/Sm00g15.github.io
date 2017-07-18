@@ -8,9 +8,6 @@ body {
   color: #5a5a5a;
 }
 
-.jumbotron {
-	opacity: .4;
-}
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -24,6 +21,9 @@ body {
   bottom: 3rem;
 }
 
+.carousel h1 {
+	color: black;
+}
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
