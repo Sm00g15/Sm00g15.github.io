@@ -21,7 +21,11 @@ body {
   bottom: 3rem;
 }
 
-.carousel h1, p{
+.carousel h1{
+	color: black;
+}
+
+.carousel p {
 	color: black;
 }
 
