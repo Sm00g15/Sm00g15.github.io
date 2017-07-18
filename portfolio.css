@@ -25,6 +25,10 @@ body {
 	color: black;
 }
 
+.carousel img {
+  border: 5px solid black;
+}
+
 .carousel p {
 	color: black;
 }
