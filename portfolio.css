@@ -21,8 +21,12 @@ body {
   bottom: 3rem;
 }
 
-.carousel h1 {
+.carousel h1, p{
 	color: black;
+}
+
+.carousel .jumbotron {
+	opacity: .85;
 }
 /* Declare heights because of positioning of img element */
 .carousel-item {
